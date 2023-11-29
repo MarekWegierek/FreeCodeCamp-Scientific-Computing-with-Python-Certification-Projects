@@ -42,4 +42,4 @@ def arithmetic_arranger(arr, answers = False):
         arranged_problems = firstLine.rstrip() + '\n' + secondLine.rstrip() + '\n' + thirdLine.rstrip()
     return arranged_problems
 
-""" print(arithmetic_arranger(['32 - 698', '1 - 3801', '45 + 43', '123 + 49', '988 + 40'])) """
+
